@@ -1,7 +1,6 @@
 # Make your first Open-source Contribution
 
-Beginners guide to make first open source contribution
-
+I've made a Beginners guide to make first open source contribution
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
