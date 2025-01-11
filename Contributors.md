@@ -1,7 +1,7 @@
 
 **Contributors**
 
-    [your-name](your-github-id)
+    [Bhanu Partap](https://github.com/Bhanu-partap-13)
 1. [Almoiz khan](https://github.com/moiz2405)
 2. [Ch Buvan Sriram](https://github.com/Bhuvan210)
 3. [Shikhar](https://github.com/Shikharkumar1)
